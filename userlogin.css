@@ -1,0 +1,19 @@
+body { 
+    background-image:url(userimg.jpg);
+
+   background-repeat:no-repeat;
+
+   background-size:cover;
+   color: white;
+
+}
+div.ex1 {
+    width:500px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 100px;
+}
+label{
+	font-family:sans-serif; 
+	font-size: 25px;
+}

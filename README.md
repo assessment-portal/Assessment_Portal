@@ -1,0 +1,1 @@
+This is an internship project called Assessment Portal made with HTML,CSS,Bootstrap,Javascript,Jquery,PHP for an organisation called InfiData.
